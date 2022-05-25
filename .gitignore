@@ -1,3 +1,3 @@
 env/
-docs/site-docs/build/
-docs/site-docs/source/_template
+build/
+_templates/
